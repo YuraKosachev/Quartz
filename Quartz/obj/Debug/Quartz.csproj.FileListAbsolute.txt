@@ -1,0 +1,9 @@
+c:\users\yuko\source\repos\Quartz\Quartz\bin\Debug\Quartz.exe.config
+c:\users\yuko\source\repos\Quartz\Quartz\bin\Debug\Quartz.exe
+c:\users\yuko\source\repos\Quartz\Quartz\bin\Debug\Quartz.pdb
+c:\users\yuko\source\repos\Quartz\Quartz\bin\Debug\Quartz.dll
+c:\users\yuko\source\repos\Quartz\Quartz\bin\Debug\Quartz.xml
+c:\users\yuko\source\repos\Quartz\Quartz\obj\Debug\Quartz.csprojResolveAssemblyReference.cache
+c:\users\yuko\source\repos\Quartz\Quartz\obj\Debug\Quartz.csproj.CoreCompileInputs.cache
+c:\users\yuko\source\repos\Quartz\Quartz\obj\Debug\Quartz.exe
+c:\users\yuko\source\repos\Quartz\Quartz\obj\Debug\Quartz.pdb
