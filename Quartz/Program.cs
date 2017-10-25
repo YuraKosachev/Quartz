@@ -15,7 +15,7 @@ namespace Quartz
 
             MainAsync().GetAwaiter().GetResult();
 
-            Console.WriteLine("Press any key");
+            Console.WriteLine("Press any key for exit..");
             Console.ReadKey();
         }
         static async Task MainAsync()
